@@ -62,7 +62,7 @@ Hoje, uno essa bagagem estratégica ao poder computacional do **Python, SQL e BI
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arirumolo-rene-lopes-fernandes-86a3a924a" target="_blank">
+<a href="[https://www.linkedin.com/in/arirumolo-rene-lopes-fernandes-86a3a924a](https://www.linkedin.com/in/ariromulo-rene-lopes-fernandes-)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
