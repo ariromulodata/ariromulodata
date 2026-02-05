@@ -12,7 +12,7 @@ Transformo dados complexos em insights claros, acionáveis e estratégicos.
 ## ✨ Sobre mim
 
 - 📍 **Localização:** Brasil  
-- 🎓 **Formação:** ADS (Previsão: 2026)  
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Previsão: 2026)  
 - 📊 **Especialização:** Ciência de Dados & Analytics  
 - 🌍 **Idiomas:** Inglês B1 (Intermediário)  
 - 🧠 **Soft skills:** Liderança • Resiliência • Pensamento analítico  
@@ -20,7 +20,7 @@ Transformo dados complexos em insights claros, acionáveis e estratégicos.
 Minha trajetória não começou em frente a uma IDE, mas em ambientes de **alta pressão e tomada de decisão crítica**.  
 Como ex-oficial, aprendi que dados não são apenas números — são a diferença entre o sucesso e o fracasso de uma missão.
 
-Hoje, uno essa bagagem estratégica ao poder computacional do **Python, SQL e BI** para **extrair clareza do caos**.
+Hoje, uno essa bagagem estratégica ao poder computacional de **Python, SQL e BI** para **extrair clareza do caos**.
 
 ---
 
@@ -62,7 +62,7 @@ Hoje, uno essa bagagem estratégica ao poder computacional do **Python, SQL e BI
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/arirumolo-rene-lopes-fernandes-86a3a924a](https://www.linkedin.com/in/ariromulo-rene-lopes-fernandes-)" target="_blank">
+<a href="https://www.linkedin.com/in/ariromulo-rene-lopes-fernandes-86a3a924a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
